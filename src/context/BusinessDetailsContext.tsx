@@ -276,7 +276,7 @@ export const BusinessDetailsProvider: React.FC<{ children: React.ReactNode }> = 
         projectImage10: projectImage10,
 
       // Project Titles
-        projectTitle1: "High-rise Building Infrastructure",
+        projectTitle1: "High-Rise Building Infrastructure",
         projectTitle2: "Modern Kitchen Makeover",
         projectTitle3: "Living Room Refresh",
         projectTitle4: "Bedroom Retreat Project",
